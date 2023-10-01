@@ -299,15 +299,6 @@ Please note demos may have serious issues regarding accessibility (keyboard navi
 ***
 &nbsp;
 
-## <a id="shake-button"></a>Shake Button
-
-[<img src="images/shake-button.gif" height="230" title="Demo 1">](https://codepen.io/krushnarout/pen/zYyLEmM)
-
-**[⬆ back to top](#quick-links)**
-
-***
-&nbsp;
-
 ## Contributing
 
 Welcome to contribute to this project. Send us a Pull Request now!
